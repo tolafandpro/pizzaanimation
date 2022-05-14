@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/pizzaanimation/static/css/main.d2c0208d.css",
+    "main.js": "/pizzaanimation/static/js/main.42f4671c.js",
+    "static/media/section_4_03.webp": "/pizzaanimation/static/media/section_4_03.0026624989bb5231d1c8.webp",
+    "static/media/section_4_04.webp": "/pizzaanimation/static/media/section_4_04.c91ae559c3aeeb786052.webp",
+    "static/media/section_4_02.webp": "/pizzaanimation/static/media/section_4_02.0842a7c29d50d28754d1.webp",
+    "static/media/section_3_06.webp": "/pizzaanimation/static/media/section_3_06.49e1768f5ac798fec726.webp",
+    "static/media/section_3_05.webp": "/pizzaanimation/static/media/section_3_05.676391ebc1dd315e9305.webp",
+    "static/media/section_4_01.webp": "/pizzaanimation/static/media/section_4_01.69e2678537baee5075f6.webp",
+    "static/media/section_3_04.webp": "/pizzaanimation/static/media/section_3_04.5e910bb5ed95771c7d88.webp",
+    "static/media/section_1_bg.webp": "/pizzaanimation/static/media/section_1_bg.913f501528beca88cded.webp",
+    "static/media/section_3_02.webp": "/pizzaanimation/static/media/section_3_02.840f2a019358f3765ebe.webp",
+    "static/media/section_1_03.webp": "/pizzaanimation/static/media/section_1_03.bc154ddffb2cd4d918ac.webp",
+    "static/media/section_1_07.webp": "/pizzaanimation/static/media/section_1_07.d95f1d03567ba1ec529b.webp",
+    "static/media/section_1_09.webp": "/pizzaanimation/static/media/section_1_09.b61bafd31be5c9ff2b0c.webp",
+    "static/media/section_3_01.webp": "/pizzaanimation/static/media/section_3_01.adda844e49cee6966da8.webp",
+    "static/media/section_1_01.webp": "/pizzaanimation/static/media/section_1_01.2cf3155a90076a84c032.webp",
+    "static/media/section_1_08.webp": "/pizzaanimation/static/media/section_1_08.fbe0e1973e0a5c1d9a8d.webp",
+    "static/media/section_3_03.webp": "/pizzaanimation/static/media/section_3_03.0ca64b408103270bfb33.webp",
+    "static/media/section_2_05.webp": "/pizzaanimation/static/media/section_2_05.e6981c8d4d5d6f49f412.webp",
+    "static/media/section_1_02.webp": "/pizzaanimation/static/media/section_1_02.c5c031431d9b19038e0e.webp",
+    "static/media/section_2_10.webp": "/pizzaanimation/static/media/section_2_10.11a331538c631f7ddbbf.webp",
+    "static/media/section_2_02.webp": "/pizzaanimation/static/media/section_2_02.31e3a229aff584caf0f0.webp",
+    "static/media/section_1_05.webp": "/pizzaanimation/static/media/section_1_05.781d6b8fec1354bccee8.webp",
+    "static/media/section_1_06.webp": "/pizzaanimation/static/media/section_1_06.1bf1c8e73ad34ffe629f.webp",
+    "static/media/section_2_09.webp": "/pizzaanimation/static/media/section_2_09.7428ccc10856c03e4af9.webp",
+    "static/media/section_1_04.webp": "/pizzaanimation/static/media/section_1_04.3301a3a659b6b70d16b5.webp",
+    "static/media/section_2_08.webp": "/pizzaanimation/static/media/section_2_08.c87c636cc8642b640132.webp",
+    "static/media/section_2_06.webp": "/pizzaanimation/static/media/section_2_06.ab0741a512de5be59858.webp",
+    "static/media/section_2_07.webp": "/pizzaanimation/static/media/section_2_07.097924878a6f57c30e5d.webp",
+    "static/media/section_2_04.webp": "/pizzaanimation/static/media/section_2_04.e24f8a175f9403c5da25.webp",
+    "static/media/section_2_03.webp": "/pizzaanimation/static/media/section_2_03.337fe94b7ae5c70f04e0.webp",
+    "static/media/section_2_01.webp": "/pizzaanimation/static/media/section_2_01.665cf2583a10a1249014.webp",
+    "index.html": "/pizzaanimation/index.html",
+    "main.d2c0208d.css.map": "/pizzaanimation/static/css/main.d2c0208d.css.map",
+    "main.42f4671c.js.map": "/pizzaanimation/static/js/main.42f4671c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c0208d.css",
+    "static/js/main.42f4671c.js"
+  ]
+}
